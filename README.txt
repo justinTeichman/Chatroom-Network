@@ -1,3 +1,5 @@
+Application facilitates a multi-client chatroom 
+
 Steps to run application
 
 1. compile and run the server file
